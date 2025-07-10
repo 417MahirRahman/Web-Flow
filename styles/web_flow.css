@@ -29,3 +29,15 @@ nav{
     display: flex;
     justify-content: space-between;
 }
+
+footer{
+    text-align: center;
+}
+
+.footer-links{
+    justify-content: space-around;
+}
+
+.link{
+    text-decoration: none;
+}
