@@ -6,3 +6,26 @@ nav{
 .banner{
     text-align: center;
 }
+
+.action-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.productive-user-title{
+    text-align: center;
+}
+
+.productive-user-container{
+    justify-content: space-around;
+    display: flex;
+}
+
+.productive-user-box{
+    text-align: center;
+}
+
+.get-in-touch{
+    display: flex;
+    justify-content: space-between;
+}
